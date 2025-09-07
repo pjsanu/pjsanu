@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Data Science at Oslo Metropolian University
+- 📫 How to reach me: prsanu7245@oslomet.no
+- 😄 Pronouns: He/him
